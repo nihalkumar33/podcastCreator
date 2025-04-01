@@ -54,7 +54,7 @@ export const sidebarLinks = [
     {
       id: 2,
       title: "The Futur",
-      description: "This is how the news should sound",
+      description: "This is how the news should sound",   
       imgURL:
         "https://lovely-flamingo-139.convex.cloud/api/storage/16fbf9bd-d800-42bc-ac95-d5a586447bf6",
     },
